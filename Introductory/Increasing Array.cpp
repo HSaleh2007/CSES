@@ -5,7 +5,7 @@ using namespace std;
 #define all(x) (x).begin(), (x).end()
 #define rall(x) (x).rbegin(), (x).rend()
 #define MOD 998244353
- 
+  
 #pragma GCC optimize("O3,inline")
  
 void solve(){
